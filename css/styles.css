@@ -64,17 +64,23 @@
 	}
 	
 	pt {
-		margin-left:3% ;
 		color:white;
 		font-size:24px;
 	}
-	
-	pp {
-		margin-left:3% ;
-		color:white;
-		font-size:20px
+	ppt {
+		color:white ;
+		font-size:48px;
 	}
-	
+	pp {
+		 ;
+		color:white;
+		font-size:20px;
+	}
+
+	ppp {
+		color:white ;
+		font-size: 36px;	
+	}
 	wt {
 		color:white;
 		font-size:32px;
