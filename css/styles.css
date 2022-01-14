@@ -62,7 +62,12 @@
 	.hb:hover {
 		opacity: 0.5;
 	}
-	.pb {
+	
+	.produktcontainer {
+		padding: 10px;
+	}
+	
+	.produktbeschreibung {
 		color: white;
 		background-color:#3c3c3c ;
 		padding-right: 100% ;
@@ -73,9 +78,6 @@
 		font-size:24px;
 	}
 
-	bh {
-		font-size: 32px;
-	}
 	ppt {
 		color:white ;
 		font-size:48px;
