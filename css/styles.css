@@ -62,7 +62,10 @@
 	.hb:hover {
 		opacity: 0.5;
 	}
-	
+	pb {
+		color: white;
+		background-color:#3c3c3c ;
+	}
 	pt {
 		color:white;
 		font-size:24px;
