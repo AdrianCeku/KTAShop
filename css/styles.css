@@ -133,6 +133,7 @@
 		padding: 10px;
 		border:none;
 	}
+	
 	.faq {
 		font-family: century gothic ;
 		color:white ;
@@ -159,3 +160,10 @@
 	font-size: 16;
 	font-family: century gothic;
 }
+
+
+.ueberuns{
+		padding: 10px;
+		border:none;
+		background-color: transparent;
+	}
